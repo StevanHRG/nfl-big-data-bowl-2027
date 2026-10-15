@@ -1,0 +1,15 @@
+# Competition data is licensed CC BY-NC 4.0 and may not be redistributed - download it from Kaggle
+data/
+
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Personal working notes (Portuguese) and copy-paste helpers
+PLANO.md
+PUBLICAR.md
+writeup/DESCRIPTION_COPY.html
+writeup/DESCRIPTION_PASTE.md
+notebooks/
